@@ -1,0 +1,25 @@
+#logo-image{
+   position: relative; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+#body-description{
+    background-color: rgb(180, 51, 137);
+}
+
+.main-text{
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: 100px;
+}
+
+.sub-text{
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: 100px;
+}
